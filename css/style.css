@@ -27,7 +27,7 @@ body{
 
 .container_principal{
     max-width: 1440px;
-    max-height: 500px;
+    max-height: 540px;
     height: 80%;
     width: 306px;
     display: flex;
